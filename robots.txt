@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://semper-haus-radebeul.pages.dev/sitemap.xml
+Sitemap: https://renovari-rohrtechnik.github.io/Rohrreinigung-Dortmund/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
